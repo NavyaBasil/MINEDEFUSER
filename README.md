@@ -1,0 +1,2 @@
+MineDefuser: A Python-Based Minesweeper-Inspired Game
+This repository contains a Python application that combines elements of Minesweeper with additional puzzles and challenges. The game features a bomb-defusal scenario where players must use logic and strategy to disarm virtual mines. The game is presented with a graphical user interface (GUI) using the pygame library and offers various challenges, including wire-cutting puzzles, symbol recognition, and memory challenges (Inspired from Keep Talking and Nobody Explodes.
